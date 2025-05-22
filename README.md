@@ -1,2 +1,2 @@
-# I build AI GirlFriend
+# I built AI Girlfriend
  
